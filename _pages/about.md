@@ -17,42 +17,97 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a master's student in Party Affairs Management at East China Normal University. My work focuses on digital economy and digital governance, AI policy and firm resilience, platform economy and consumer behavior, higher education management, admissions operations, and innovation management.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I combine quantitative empirical methods with practical administrative experience in higher education. My current research uses firm-level data and policy evaluation designs to study how artificial intelligence policy affects organizational resilience and innovation-related outcomes in China.
 
+# Research Interests
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Digital economy and digital governance
+- AI policy and firm resilience
+- Platform economy and consumer behavior
+- Higher education management and admissions operations
+- Innovation management
 
-# 📝 Publications 
+# Working Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**The Impact of Artificial Intelligence Policy on Firm Resilience: Empirical Evidence from China**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+First author; working paper, manuscript completed
+- Built a firm-level empirical framework to estimate the impact of China's AI pilot zone policy on A-share listed firms from 2014 to 2023.
+- Applied difference-in-differences models and robustness checks, including event-study diagnostics, parallel trend tests, IPTW/PSM-related specifications, SDID checks, threshold models, and heterogeneous effect analyses.
+- Prepared Stata scripts, diagnostic tables, model outputs, and visualizations for reproducible empirical analysis.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**A Statistical Test of the Mutual Promotion Relationship between China's Political Development and Economic Development**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+First author; manuscript under review at *Economic Research-Ekonomska Istrazivanja*
+- Constructed an index system for China's political and economic development using the entropy weight method.
+- Examined the long-term coupling and coordination relationship between political and economic development since 1978.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Factors Influencing Purchase Intentions in Knowledge Live Streaming: A Family Life Cycle Perspective**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Bachelor's thesis; ranked 1st in the School of Management
+- Developed a VAM-based consumer behavior framework to study purchase intention in knowledge live-streaming contexts.
+- Applied SEM, CFA, and mediation analysis to examine the role of perceived value.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Consumption Intention for Solo Dining Restaurants in Chengdu: A Singles Economy Perspective**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+First author; competition research report
+- Designed an eight-variable VAM-based framework and collected 1,160 valid survey responses through three-stage PPS sampling.
+- Applied SEM, CFA, regression analysis, k-modes clustering, and neural-network methods to analyze mechanisms shaping consumption intention.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Education
+
+**East China Normal University (ECNU)**, Shanghai, China
+
+Master's Degree in Party Affairs Management, 2024.09-2026.07
+- GPA: 3.92/4.00; 91.33/100; ranked 1/41 in class.
+- Honors: Shanghai Outstanding Graduate; University Outstanding Student; First-Class Scholarship.
+- Master's project: *Study on the Historical Experience of Mutual Promotion between China's Political Development and Economic Development since the Reform and Opening-up*.
+
+**Chengdu University of Traditional Chinese Medicine (CUTCM)**, Chengdu, China
+
+Bachelor's Degree in Marketing Management, 2020.09-2024.07
+- GPA: 89.44/100; 3.89/5.00; ranked 4/94 by grade.
+- Bachelor's thesis: *Factors Influencing Purchase Intentions in Knowledge Live Streaming: A Family Life Cycle Perspective*.
+- Honors: National Encouragement Scholarship for three consecutive years; Dean's Scholarship; First-Class Scholarships.
+
+# Experience
+
+**Shanghai Innovation Institute**, Shanghai, China
+
+Admissions / Academic Affairs Administration, 2025.06-Present
+- Supported admissions operations, academic affairs coordination, applicant communication, and administrative workflow management.
+- Assisted with candidate information management, document collection, outreach communication, and student-facing service processes.
+- Gained practical exposure to higher education operations, admissions governance, and data-informed administrative work.
+
+**Organization Department, People's Government of Minhang District**, Shanghai, China
+
+Intern, 2025.04
+- Assisted with administrative coordination, document preparation, and organizational work in a district-level government department.
+- Strengthened understanding of public-sector governance and administrative processes.
+
+**Superlove Technology (Baicizhan) Co., Ltd.**, Chengdu, China
+
+Intern, 2023.09
+- Supported business and operational tasks in an education-technology company.
+- Gained exposure to online learning platforms, user operations, and digital education services.
+
+# Skills
+
+- Quantitative methods: DID, event-study design, PSM/IPTW-related robustness checks, SEM, CFA, regression analysis, clustering, and questionnaire design.
+- Software and tools: Stata, SPSS/AMOS or equivalent SEM tools, Excel, data cleaning, empirical workflow management.
+- Research workflow: literature review, survey design, empirical modeling, table and figure production, academic writing in English and Chinese.
+
+# Honors and Awards
+
+- Shanghai Outstanding Graduate, East China Normal University.
+- University Outstanding Student, East China Normal University.
+- First-Class Scholarship, East China Normal University.
+- National Encouragement Scholarship, three consecutive years, 2021-2024.
+- Dean's Scholarship, sole recipient, 2024.
+- First-Class Scholarship, Chengdu University of Traditional Chinese Medicine, three times.
+- National Undergraduate Training Program for Innovation and Entrepreneurship, core member, 2023.
+- National College Student Market Research and Analysis Competition, Third Prize, team leader, 2023.
+- Sichuan Province College Student Enterprise Management Challenge, Second Prize, 2022.
+- Outstanding Graduating College Student of Sichuan Province, 2024.
