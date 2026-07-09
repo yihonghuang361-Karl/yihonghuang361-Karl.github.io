@@ -1,11 +1,11 @@
 # Site Settings
 title                    : "Yihong Huang"
 description              : "Master's student at East China Normal University working on digital economy, AI policy, and firm resilience."
-repository               : "yihonghuang361-Karl/yihonghuang.github.io"
+repository               : "yihonghuang361-Karl/yihonghuang361-Karl.github.io"
 
-# Important for GitHub Project Pages
+# Important for GitHub User Pages
 url                      : "https://yihonghuang361-karl.github.io"
-baseurl                  : "/yihonghuang.github.io"
+baseurl                  : ""
 
 google_scholar_stats_use_cdn : false
 
