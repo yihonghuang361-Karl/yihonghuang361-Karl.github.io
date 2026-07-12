@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Yihong Huang academic monogram logo</title>
+  <desc id="desc">A deep green academic seal with gold YH initials, an open book, and digital network nodes.</desc>
+  <defs>
+    <radialGradient id="bg" cx="36%" cy="28%" r="82%">
+      <stop offset="0%" stop-color="#183c31"/>
+      <stop offset="58%" stop-color="#0d261f"/>
+      <stop offset="100%" stop-color="#071512"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="20%" y1="0%" x2="82%" y2="100%">
+      <stop offset="0%" stop-color="#f3e4b6"/>
+      <stop offset="42%" stop-color="#c7a45b"/>
+      <stop offset="100%" stop-color="#8f6b2e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="216" fill="url(#bg)"/>
+
+  <g filter="url(#softShadow)">
+    <circle cx="512" cy="512" r="392" fill="none" stroke="url(#gold)" stroke-width="34"/>
+    <circle cx="512" cy="512" r="336" fill="none" stroke="#f7edcf" stroke-opacity="0.72" stroke-width="8"/>
+  </g>
+
+  <g fill="none" stroke="#d7bd78" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.82">
+    <path d="M287 342 C356 282, 441 257, 512 286 C581 257, 668 282, 737 342"/>
+    <path d="M512 286 L512 354"/>
+    <path d="M294 687 C375 635, 455 632, 512 675 C569 632, 649 635, 730 687"/>
+    <path d="M342 720 C406 696, 463 698, 512 727 C561 698, 618 696, 682 720"/>
+  </g>
+
+  <g stroke="#c9ad66" stroke-width="7" stroke-linecap="round" opacity="0.8">
+    <path d="M308 255 L379 212 L452 238"/>
+    <path d="M646 238 L714 202 L778 252"/>
+    <path d="M242 508 L305 462 L372 481"/>
+    <path d="M783 507 L719 460 L650 483"/>
+  </g>
+  <g fill="#f2dfaa" opacity="0.95">
+    <circle cx="308" cy="255" r="13"/>
+    <circle cx="379" cy="212" r="11"/>
+    <circle cx="452" cy="238" r="9"/>
+    <circle cx="646" cy="238" r="9"/>
+    <circle cx="714" cy="202" r="11"/>
+    <circle cx="778" cy="252" r="13"/>
+    <circle cx="242" cy="508" r="10"/>
+    <circle cx="305" cy="462" r="8"/>
+    <circle cx="372" cy="481" r="8"/>
+    <circle cx="783" cy="507" r="10"/>
+    <circle cx="719" cy="460" r="8"/>
+    <circle cx="650" cy="483" r="8"/>
+  </g>
+
+  <text x="512" y="595"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="296"
+        font-weight="700"
+        letter-spacing="-10"
+        fill="#f7edd1">YH</text>
+
+  <text x="512" y="798"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="48"
+        letter-spacing="9"
+        fill="#c7a45b">RESEARCH</text>
+</svg>
